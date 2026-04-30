@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://moodroot.online">
-    <img src="docs/assets/legacy-architecture.png" alt="MoodRoot — legacy and modern AWS architecture modernization (before/after)." width="920" style="max-width: 100%; height: auto;">
-  </a>
-</p>
-
-<p align="center">
   <img src="docs/assets/app-logo.png" alt="MoodRoot logo" width="96" height="96">
 </p>
 
